@@ -8,12 +8,11 @@ export default async function HomePage() {
   return (
     <div className="space-y-16">
       <section className="space-y-6">
-        <p className="text-sm uppercase tracking-[0.2em] text-ink-300 dark:text-ink-500">Personal website</p>
+
         <h1 className="text-4xl font-semibold text-ink-900 dark:text-white sm:text-5xl">Yasin Rahat</h1>
         <p className="text-xl text-ink-500 dark:text-ink-300">Founder, traveler, and builder.</p>
         <p className="max-w-2xl text-lg leading-7 text-ink-500 dark:text-ink-300">
-          I write about building products, traveling with curiosity, and the ideas shaping my work. This is a home
-          for lessons learned and notes I want to remember.
+          I write about building a startup, travel stories, and the ideas, thoughts. Welcome to my personal diary.
         </p>
       </section>
 
@@ -62,7 +61,7 @@ export default async function HomePage() {
       <footer className="border-t border-ink-300 pt-8 text-sm text-ink-500 dark:border-ink-700 dark:text-ink-300">
         <div className="flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">
           <a href="mailto:hello@example.com" className="hover:text-ink-900 dark:hover:text-white">
-            hello@example.com
+            rahat@abroadmates.com
           </a>
           <div className="flex gap-4">
             <a href="#" className="hover:text-ink-900 dark:hover:text-white">
